@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "HyeYeok Ko"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Graduated from Chonnam National University with a degree in Computer Engineering."
+  location         : "Korea"
+  email            : "juliago00@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
