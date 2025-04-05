@@ -1,0 +1,7 @@
+---
+title: "PS, Projects, ETC"
+layout: home
+permalink: /
+author_profile: true
+---
+
