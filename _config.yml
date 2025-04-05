@@ -104,9 +104,6 @@ author:
   location         : "South Korea"
   email            : "juliago00@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:juliago00@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HaYangT"
@@ -256,7 +253,13 @@ jekyll-archives:
      tag: archive-taxonomy
    permalinks:
      category: /categories/:name/
-     tag: /tags/:name/
+     tag: /tags/:name/---
+title: "Category"
+layout: categories
+permalink: /categories/
+author_profile: true
+sidebar_main: true
+---
 
 
 # HTML Compression
